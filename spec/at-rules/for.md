@@ -32,6 +32,9 @@ To execute a `@for` rule `rule`:
   
 * Otherwise:
 
+
+##else 
+
   * Let `to` be the result of evaluating the expression in `ThroughDeclaration`.
 
   * Let `exclusive` be `false`.
